@@ -31,7 +31,5 @@ Looking for my alternance starting February/March 2024, anyone interested in off
 [Twitch](https://www.twitch.tv/kingmobyojimbo)
 
 
-
-# <p align="center">“I have learned all kinds of things from my many mistakes. The one thing I never learn is to stop making them.” - Joe Abercrombie</p>
   
     
