@@ -30,6 +30,6 @@ Looking for my alternance starting February/March 2024, anyone interested in off
 
 [Twitch](https://www.twitch.tv/kingmobyojimbo)
 
-
+[My Portfolio Page](https://www.bradley-hill.me/)
   
     
