@@ -9,12 +9,8 @@ Having started my journey by learning a bit of HTML/CSS and JavaScript with a bo
 
 My move from the UK to France at the end of 2022 allowed me the opportunity to focus on my desire to transition from my work in Hospitality and Cheffing into the tech sector.
 
-Since May 2023 I have had the great pleasure of studying at [Ada Tech School](https://adatechschool.fr/), starting a course of 9 months followed (with some luck) by a 12 month alternance (Type of french apprenticeship contract) where I will be working Mon-Thu with the Fridays attending the school for my continued studies.
-
-Aside from my course of studies and group projects undertaken at Ada Tech School, I have also had the pleasure of discovering [The Odin Project](https://www.theodinproject.com) and starting to follow the curriculum proposed by this open source study project before beginning my studies at Ada Tech School, and since my progress has slowed, but I still commit to several hours a week for The Odin Project, I can't recommend it enough to people looking to understand and learn more about the process of Web Development and the coding required.
-
-Looking for my alternance starting February/March 2024, anyone interested in offering me a post, don't hesitate to contact me, and everyone else, feel free to follow/like/subscribe and indeed contact me to discuss anything and everything!
-
+Since September 2024 I have begun my apprenticeship working at Ubisoft as a Web Developper, where I am getting some amazing experience working with teams based all over the world.
+Alongside my work at Ubisoft I am working on a side-project for attaining my RNCP 6 - Concepteur Developpeur de Logiciel in 2025.
 
 
 
