@@ -26,6 +26,5 @@ Alongside my work at Ubisoft I am working on a side-project for attaining my RNC
 
 [Twitch](https://www.twitch.tv/kingmobyojimbo)
 
-[My Portfolio Page](https://www.bradley-hill.me/)
   
     
