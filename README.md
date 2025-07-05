@@ -1,30 +1,40 @@
-
 # <p align="center">Bradley M. Hill</p>
-  
+<p align="center"><em>"The harder I work, the luckier I become."</em> – Sir Terry Pratchett</p>
 
-# <p align="center">"The harder I work, the luckier I become." - Sir Terry Pratchett</p>
+---
 
-    
-Having started my journey by learning a bit of HTML/CSS and JavaScript with a bootcamp in 2021 with [Bath Spa University](https://www.bathspa.ac.uk/courses/short-courses/skills-bootcamps/) and the [Instute of Coding](https://instituteofcoding.org/), I continued my self study, encouraged by a friend to look into Python and deepening my comprehension of Javascript at the same time.
+Hi, I'm Bradley — a **junior web developer** currently based in France.
 
-My move from the UK to France at the end of 2022 allowed me the opportunity to focus on my desire to transition from my work in Hospitality and Cheffing into the tech sector.
+I started my coding journey in 2021 through a bootcamp with [Bath Spa University](https://www.bathspa.ac.uk/courses/short-courses/skills-bootcamps/) and the [Institute of Coding](https://instituteofcoding.org/), where I learned the basics of **HTML**, **CSS**, and **JavaScript**.
 
-Since September 2024 I have begun my apprenticeship working at Ubisoft as a Web Developper, where I am getting some amazing experience working with teams based all over the world.
-Alongside my work at Ubisoft I am working on a side-project for attaining my RNCP 6 - Concepteur Developpeur de Logiciel in 2025.
+I kept learning through self-study, exploring Python and diving deeper into JavaScript, supported by a friend who encouraged me to dig further into development.
 
+At the end of 2022, I moved from the UK to France to fully focus on transitioning from a career in **hospitality and cheffing** into the **tech industry**.
 
+Since **September 2024**, I’ve been working as a **junior web developer at Ubisoft**, gaining hands-on experience working on real-world projects with international teams.
 
-# <p align="center">Social Links</p>
+Alongside my work at Ubisoft, I’m also building a side project as part of my studies toward the **RNCP Level 6 – Concepteur Développeur de Logiciel**, which I’ll complete in 2025.
 
- [LinkedIn ](https://www.linkedin.com/in/bradley-michael-hill/)
+---
 
-[Instagram](https://www.instagram.com/hill.bradley/)
-        
-[Threads](https://www.threads.net/@hill.bradley)
-        
-[Twitter](https://twitter.com/KingmObYojimbo)
+## 🚀 Looking Ahead
 
-[Twitch](https://www.twitch.tv/kingmobyojimbo)
+I’m actively growing my skills and will be available for a **junior developer role starting from November 2025**, once my apprenticeship ends.
 
-  
-    
+---
+
+## 🛠️ Current Tech Stack
+
+- JavaScript / TypeScript
+- React / Next.js
+- HTML5 / CSS3 / Sass
+- Git / GitHub / GitLab
+- Webpack / Vite
+- VS Code / Postman / Figma
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOURPROFILE)
+- 🔗 [GitHub](https://github.com/Bradley-Hill)
