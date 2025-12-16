@@ -1,3 +1,4 @@
+
 # <p align="center">Bradley M. Hill</p>
 <p align="center"><em>"The harder I work, the luckier I become."</em> – Sir Terry Pratchett</p>
 
@@ -11,9 +12,8 @@ I kept learning through self-study, exploring Python and diving deeper into Java
 
 At the end of 2022, I moved from the UK to France to fully focus on transitioning from a career in **hospitality and cheffing** into the **tech industry**.
 
-Since **September 2024**, I’ve been working as a **junior web developer at Ubisoft**, gaining hands-on experience working on real-world projects with international teams.
+After completing a contract as a **Junior Web Developer at Ubisoft** *(Sep 2024 – Nov 2025)*, where I worked on the marketing websites for the company interacting with international teams, I’m now focused on continuing my journey as a **software developer**.
 
-Alongside my work at Ubisoft, I’m also building a side project as part of my studies toward the **RNCP Level 6 – Concepteur Développeur de Logiciel**, which I’ll complete in 2025.
 
 ---
 
