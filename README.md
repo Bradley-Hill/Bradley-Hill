@@ -31,6 +31,7 @@ I’m actively growing my skills and will be available for a **junior developer 
 - Git / GitHub / GitLab
 - Webpack / Vite
 - VS Code / Postman / Figma
+- PostgreSQL 
 
 ---
 
