@@ -19,7 +19,7 @@ After completing a contract as a **Junior Web Developer at Ubisoft** *(Sep 2024 
 
 ## 🚀 Looking Ahead
 
-I’m actively growing my skills and will be available for a **junior developer role starting from November 2025**, once my apprenticeship ends.
+I’m actively growing my skills and will be available for a **junior developer role starting from November 2025**, in the meantime I will be continuing to learn with some personal projects.
 
 ---
 
